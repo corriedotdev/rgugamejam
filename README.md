@@ -1,4 +1,4 @@
-Get started with Unity game development with this 30 minute project.
+Get started with Unity game development with this 30 minute project. Using version 2022.3.9f1 available to download here - https://unity.com/releases/editor/whats-new/2022.3.9
 
 - Create a terrain
 - Add in a capsule with a "CharacterController" component and make sure there is a collider, set the Main Camera as a child to this and align your perspective
